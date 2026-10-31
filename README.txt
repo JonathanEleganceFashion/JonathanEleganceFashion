@@ -1,22 +1,9 @@
-JONATHAN ELEGANCE FASHION — 8-PAGE FASHION WEBSITE
+JONATHAN ELEGANCE FASHION — 8-PAGE WEBSITE (PHOTO EDITION)
 
-Pages:
-1. index.html — Home
-2. about.html — About
-3. collections.html — Collections
-4. women.html — Women's Wear
-5. men.html — Men's Wear
-6. custom-design.html — Custom Design
-7. gallery.html — Gallery
-8. contact.html — Contact
+Pages: Home, About, Collections, Women's Wear, Men's Wear, Custom Design, Gallery, Contact.
 
-HOW TO VIEW:
-- Extract the ZIP file.
-- Open index.html in a web browser.
-- Use the navigation menu at the top to move between all eight linked pages.
+Upload all files in this folder to the ROOT of your GitHub repository. Keep index.html and styles.css in the root.
 
-CUSTOMISE:
-- Replace Jonathan Elegance Fashion with your real business name.
-- Update the sample email and Instagram details on contact.html.
-- The contact form is a front-end demo; connect it to a form service or website backend to receive messages.
-- The design uses Google Fonts, so an internet connection is needed for those fonts. The site layout itself works locally.
+PHOTOGRAPHS: The pages now display fashion photography from the Unsplash image CDN. An internet connection is required for those photos to load. The site layout and page links are hosted by GitHub Pages.
+
+CONTACT FORM: The contact form is a front-end demonstration and does not send email until connected to a form service or backend. Replace the sample email and Instagram details on contact.html with your real contact details before launch.
